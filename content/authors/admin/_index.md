@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: ''
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 何锋
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Feng
+last_name: HE
 
 # Status emoji
 status:
@@ -20,36 +20,30 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: King's College London
+    url: https://www.kcl.ac.uk/people/feng-he
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:feng.he@kcl.ac.uk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/fenghe-kcl/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=FLBkxucAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-8371-8565
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - UV Phathology
+  - Vascular Endoscopy
+  - Equitable Oximetry
 
 education:
   - area: PhD Artificial Intelligence
